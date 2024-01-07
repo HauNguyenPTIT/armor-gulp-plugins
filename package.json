@@ -1,7 +1,7 @@
 {
   "name": "armor-gulp-plugins",
   "description": "Custom gulp plugins to be used across all armor modules",
-  "version": "1.0.2,
+  "version": "1.0.2",
   "author": "ait-software",
   "engines": [
     "node"
